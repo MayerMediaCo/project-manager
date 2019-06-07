@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
 
-export default class Todo extends Component {
+export default class  extends Component {
   render() {
     return (
       <div>
-        <h1>Todo Page</h1>
+      <h1>Edit Todos page</h1>
       </div>
     )
   }
